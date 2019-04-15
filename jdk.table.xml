@@ -3,11 +3,13 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="1.8" />
+      <version value="java version &quot;1.8.0_201&quot;" />
       <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
