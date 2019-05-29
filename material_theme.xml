@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="8d90042:16b05ba6e2e:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
