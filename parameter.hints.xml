@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="schemas.dynamics.microsoft.codeunit.licensekey_websrv.LicenseKeyWebSrvPort.deleteLicenseKey(parItem,parSerial,hB,parCalledfromProxy)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
