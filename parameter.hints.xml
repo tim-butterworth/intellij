@@ -1,9 +1,8 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Groovy">
-        <added pattern="helpers.activations.ccds.CCDSHelper.callCCDSWithRetry2(call,predicate,loggingConsumer)" />
-        <added pattern="helpers.activations.ccds.CCDSHelper.callCCDSWithRetry(call,predicate,loggingConsumer)" />
+      <blacklist language="Java">
+        <added pattern="schemas.dynamics.microsoft.codeunit.licensekey_websrv.LicenseKeyWebSrvPort.deleteLicenseKey(parItem,parSerial,hB,parCalledfromProxy)" />
       </blacklist>
     </blacklists>
   </component>
