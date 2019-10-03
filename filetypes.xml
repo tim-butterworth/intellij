@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="dsl" type="Groovy" />
       <mapping pattern="QE" type="PLAIN_TEXT" />
       <mapping pattern="plans" type="PLAIN_TEXT" />
