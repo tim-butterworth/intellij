@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="dsl" type="Groovy" />
       <mapping pattern="Netjets Transportes_1.json" type="PLAIN_TEXT" />
+      <mapping pattern="billing" type="PLAIN_TEXT" />
       <mapping pattern="QE" type="PLAIN_TEXT" />
       <mapping pattern="plans" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
