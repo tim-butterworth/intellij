@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="dsl" type="Groovy" />
       <mapping pattern="Netjets Transportes_1.json" type="PLAIN_TEXT" />
       <mapping pattern="billing" type="PLAIN_TEXT" />
