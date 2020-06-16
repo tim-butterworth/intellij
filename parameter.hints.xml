@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
+      <blacklist language="TypeScript">
+        <added pattern="setTimeout(callback,ms,args)" />
+      </blacklist>
       <blacklist language="Java">
         <added pattern="org.springframework.security.config.annotation.web.AbstractRequestMatcherRegistry.antMatchers(method,antPatterns)" />
       </blacklist>
@@ -14,5 +16,8 @@
     <option id="SHOW_PARAMETER_HINT" value="false" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
+    <disabledLanguages>
+      <language id="TypeScript" />
+    </disabledLanguages>
   </component>
 </application>
