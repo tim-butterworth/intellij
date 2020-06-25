@@ -11,6 +11,7 @@
       <mapping pattern="plans" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
