@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dsl" type="Groovy" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="Netjets Transportes_1.json" type="PLAIN_TEXT" />
-      <mapping pattern="billing" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="QE" type="PLAIN_TEXT" />
-      <mapping pattern="plans" type="PLAIN_TEXT" />
+      <mapping pattern="billing" type="PLAIN_TEXT" />
       <mapping pattern="stale_outputs_checked" type="PLAIN_TEXT" />
+      <mapping pattern="Netjets Transportes_1.json" type="PLAIN_TEXT" />
+      <mapping pattern="plans" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
